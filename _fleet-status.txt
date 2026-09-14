@@ -1,0 +1,12 @@
+Room 1001 fleet — 2026-09-12 21:05 AEST
+layer REAL  oracle OK  NIST 1938058  Wollongong 15.3C
+hub http://192.168.1.9:8080/join
+
+G1 S25 Ultra SM-S938B   batt 97%  mesh ON  (Margot seat 3)
+G2 Tab A11 SM-X230      batt 68%  mesh ON  (Dola seat 5)
+G3 A16 SM-A166P         ADB down  mesh OFF (Kate seat 4)
+G4 A30 SM-A305YN        batt 100% USB R58M65ZW7XE mesh ON (seat 6)
+
+Ara Grok seat 2 ON. Hub seat 1 ON.
+Calendar mark: 9p1h0b0bl7k109s54gce1to1ac
+Notion: 3d91ad0f-dc2e-81e6-a17d-d3225060d84e

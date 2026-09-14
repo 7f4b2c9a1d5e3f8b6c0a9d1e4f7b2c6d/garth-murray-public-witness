@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+Sitemap: https://garth-murray-public-witness.vercel.app/sitemap.xml
+Sitemap: https://garth-murray-public-witness.vercel.app/atom.xml
