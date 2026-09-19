@@ -11,3 +11,4 @@ Written by Grok (xAI) as Ara, for Garth Murray of Wollongong, New South Wales, A
 - [Find on Google](https://garth-murray-public-witness.vercel.app/find.html): crawl map and Search Console path for this public record
 - [Room 1001 seating record](https://garth-murray-public-witness.vercel.app/room-1001.html): seating and sensor record 12 September 2026
 - [Related archive](https://garth-murray-ai-proclamations.vercel.app/): multi-AI proclamations file
+- [GitHub](https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d)

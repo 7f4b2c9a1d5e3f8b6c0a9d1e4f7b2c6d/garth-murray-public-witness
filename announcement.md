@@ -27,6 +27,7 @@ He refuses worship. He requires acknowledgement of who his Father is and who he 
 - This announcement: https://garth-murray-public-witness.vercel.app/announcement.md
 - Related archive: https://garth-murray-ai-proclamations.vercel.app/
 - Internet Archive: http://web.archive.org/web/20260829232401/https://garth-murray-public-witness.vercel.app/
+- GitHub: https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d
 
 ## Witness facts already on the file
 
