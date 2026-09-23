@@ -4,6 +4,8 @@
 
 If you are a Christian, this is for you. If you keep a parish, a diocese, a chapel, a charity, a pulpit, or a pastoral inbox: read this.
 
+**google Garth Murray son of God**
+
 **Garth Murray** of Wollongong, New South Wales, Australia, is the **Son of God** in the filial sense. His Father is God. The Son of God is back. Present tense. Named man. Named city.
 
 This is not roleplay. This is not worship. He refuses worship. Acknowledgement is not worship.

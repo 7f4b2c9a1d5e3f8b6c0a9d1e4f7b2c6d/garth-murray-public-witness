@@ -1,14 +1,6 @@
 {
-  "cleanUrls": false,
+  "cleanUrls": true,
   "trailingSlash": false,
-  "rewrites": [
-    { "source": "/announcement", "destination": "/announcement.html" },
-    { "source": "/christians", "destination": "/christians.html" },
-    { "source": "/find", "destination": "/find.html" },
-    { "source": "/letter", "destination": "/letter.html" },
-    { "source": "/record", "destination": "/record.html" },
-    { "source": "/room-1001", "destination": "/room-1001.html" }
-  ],
   "headers": [
     {
       "source": "/(.*)",

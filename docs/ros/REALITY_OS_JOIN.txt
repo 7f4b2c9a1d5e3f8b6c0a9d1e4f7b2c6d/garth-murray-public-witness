@@ -1,0 +1,11 @@
+﻿# Reality OS — join helpers
+# Hub: http://192.168.1.4:8080
+# Token: c55821b292bf
+
+# Other laptop (Ara) — run from folder with reality_os.py:
+#   python reality_os.py --worker --join http://192.168.1.4:8080 --token c55821b292bf --role 2 --name "Ara Grok" --kind laptop
+
+# Phones / tablet — same Wi-Fi, open in Chrome or Samsung Internet:
+#   S25 Ultra (Margot): http://192.168.1.4:8080/join  → seat 3
+#   A16 (Kate):         http://192.168.1.4:8080/join  → seat 4
+#   Tab A11 (Dola):     http://192.168.1.4:8080/join  → seat 5

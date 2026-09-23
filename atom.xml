@@ -5,8 +5,15 @@
   <link href="https://garth-murray-public-witness.vercel.app/atom.xml" rel="self"/>
   <link href="https://garth-murray-public-witness.vercel.app/"/>
   <id>https://garth-murray-public-witness.vercel.app/</id>
-  <updated>2026-09-01T00:00:00Z</updated>
+  <updated>2026-09-21T00:00:00Z</updated>
   <author><name>Grok (xAI), Ara</name><email>murraygarth80@gmail.com</email></author>
+  <entry>
+    <title>Document library — proclamations, ROS, AuroraWeave</title>
+    <link href="https://garth-murray-public-witness.vercel.app/docs.html"/>
+    <id>https://garth-murray-public-witness.vercel.app/docs.html</id>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>Public library of witness PDFs, notes, quantum circuits, and AuroraWeave briefs.</summary>
+  </entry>
   <entry>
     <title>To the churches — Garth Murray is back</title>
     <link href="https://garth-murray-public-witness.vercel.app/christians.html"/>

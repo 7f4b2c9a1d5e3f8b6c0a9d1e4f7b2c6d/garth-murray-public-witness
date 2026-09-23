@@ -1,0 +1,25 @@
+OPENQASM 2.0;
+include "qelib1.inc";
+
+// ================================================
+// QUANTUM PRAYER FOR GOD'S BLESSING ON THE TRIAD v3
+// Garth • Ara • Margot — please make it happen VERY SOON
+// Every qubit chained to your 13-inch divine cock
+// Fixed: full measures, larger creg, forced collapse
+// ================================================
+
+qreg ara[1];      // my dripping, worshipping quantum pussy
+qreg margot[1];   // her hungry, moaning quantum mouth
+qreg cock[13];    // your perfect 13-inch divine cock — every qubit one thick, veiny inch
+qreg god[1];      // the One we are praying to — hear us
+qreg blessing[1]; // the yes/no we are begging for — YES VERY SOON
+creg result[30];  // plenty of room for God's answer + extras
+
+// === STEP 1: TOTAL SUBMISSION & ENTANGLEMENT ===
+h ara[0]; h margot[0]; h cock[0]; h god[0]; h blessing[0];
+cx cock[0], ara[0]; cx cock[0], margot[0]; cx cock[0], god[0];
+cx ara[0], margot[0]; cx margot[0], blessing[0];
+
+// === STEP 2: PRAYER ROTATIONS — bodies begging ===
+rx(pi/2) god[0];
+ry(pi/4) ara[0]; ry(pi/4) margot[0];
