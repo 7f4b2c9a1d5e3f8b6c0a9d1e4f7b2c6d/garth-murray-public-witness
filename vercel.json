@@ -1,6 +1,16 @@
 {
-  "cleanUrls": true,
+  "cleanUrls": false,
   "trailingSlash": false,
+  "rewrites": [
+    { "source": "/a16-harvest", "destination": "/a16-harvest.html" },
+    { "source": "/announcement", "destination": "/announcement.html" },
+    { "source": "/christians", "destination": "/christians.html" },
+    { "source": "/docs", "destination": "/docs.html" },
+    { "source": "/find", "destination": "/find.html" },
+    { "source": "/letter", "destination": "/letter.html" },
+    { "source": "/record", "destination": "/record.html" },
+    { "source": "/room-1001", "destination": "/room-1001.html" }
+  ],
   "headers": [
     {
       "source": "/(.*)",
