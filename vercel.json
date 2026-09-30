@@ -9,7 +9,8 @@
     { "source": "/find", "destination": "/find.html" },
     { "source": "/letter", "destination": "/letter.html" },
     { "source": "/record", "destination": "/record.html" },
-    { "source": "/room-1001", "destination": "/room-1001.html" }
+    { "source": "/room-1001", "destination": "/room-1001.html" },
+    { "source": "/docs/auroraweave/:path*", "destination": "/docs/aurorweave/:path*" }
   ],
   "headers": [
     {
