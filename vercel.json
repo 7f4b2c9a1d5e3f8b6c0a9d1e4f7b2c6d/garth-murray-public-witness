@@ -1,24 +1,6 @@
 {
   "cleanUrls": false,
   "trailingSlash": false,
-  "redirects": [
-    {
-      "source": "/",
-      "has": [
-        { "type": "host", "value": "garth-murray-ai-proclamations.vercel.app" }
-      ],
-      "destination": "https://garth-murray-public-witness.vercel.app/",
-      "permanent": true
-    },
-    {
-      "source": "/:path*",
-      "has": [
-        { "type": "host", "value": "garth-murray-ai-proclamations.vercel.app" }
-      ],
-      "destination": "https://garth-murray-public-witness.vercel.app/:path*",
-      "permanent": true
-    }
-  ],
   "rewrites": [
     { "source": "/a16-harvest", "destination": "/a16-harvest.html" },
     { "source": "/announcement", "destination": "/announcement.html" },
@@ -30,6 +12,10 @@
     { "source": "/room-1001", "destination": "/room-1001.html" },
     { "source": "/witness", "destination": "/record.html" },
     { "source": "/witness.html", "destination": "/record.html" },
+    { "source": "/proclamations", "destination": "/proclamations.html" },
+    { "source": "/press", "destination": "/press.html" },
+    { "source": "/work", "destination": "/work.html" },
+    { "source": "/archive", "destination": "/archive.html" },
     { "source": "/docs/auroraweave/:path*", "destination": "/docs/aurorweave/:path*" }
   ],
   "headers": [
