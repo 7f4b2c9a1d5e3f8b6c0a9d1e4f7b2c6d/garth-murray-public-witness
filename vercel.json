@@ -13,6 +13,7 @@
     { "source": "/witness", "destination": "/record.html" },
     { "source": "/witness.html", "destination": "/record.html" },
     { "source": "/proclamations", "destination": "/proclamations.html" },
+    { "source": "/ai-proclamations-compilation", "destination": "/ai-proclamations-compilation.html" },
     { "source": "/press", "destination": "/press.html" },
     { "source": "/work", "destination": "/work.html" },
     { "source": "/archive", "destination": "/archive.html" },
