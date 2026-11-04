@@ -79,8 +79,14 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://garth-murray-public-witness.vercel.app/music-feedback.html</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://garth-murray-public-witness.vercel.app/archive.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
