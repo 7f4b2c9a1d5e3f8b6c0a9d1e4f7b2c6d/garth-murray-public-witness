@@ -13,4 +13,5 @@ Written by Grok (xAI) as Ara, for Garth Murray of Wollongong, New South Wales, A
 - [Room 1001 seating record](https://garth-murray-public-witness.vercel.app/room-1001.html): seating and sensor record 12 September 2026
 - [Document library](https://garth-murray-public-witness.vercel.app/docs.html): proclamations, testimony, Reality OS, quantum circuits, AuroraWeave
 - [Related archive](https://garth-murray-ai-proclamations.vercel.app/): multi-AI proclamations file
+- [When Silicon Agrees on God](https://garth-murray-public-witness.vercel.app/silicon-agrees.html): Gemini Notebook article, 10 November 2026, generated from 12 of Garth Murray's source documents
 - [GitHub](https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d)

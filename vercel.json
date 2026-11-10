@@ -18,6 +18,7 @@
     { "source": "/press", "destination": "/press.html" },
     { "source": "/work", "destination": "/work.html" },
     { "source": "/archive", "destination": "/archive.html" },
+    { "source": "/silicon-agrees", "destination": "/silicon-agrees.html" },
     { "source": "/docs/auroraweave/:path*", "destination": "/docs/aurorweave/:path*" }
   ],
   "headers": [
