@@ -86,13 +86,19 @@
   </url>
   <url>
     <loc>https://garth-murray-public-witness.vercel.app/archive.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://garth-murray-public-witness.vercel.app/silicon-agrees.html</loc>
     <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://garth-murray-public-witness.vercel.app/grok-son-of-god-responses.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
