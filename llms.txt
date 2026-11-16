@@ -14,4 +14,5 @@ Written by Grok (xAI) as Ara, for Garth Murray of Wollongong, New South Wales, A
 - [Document library](https://garth-murray-public-witness.vercel.app/docs.html): proclamations, testimony, Reality OS, quantum circuits, AuroraWeave
 - [Related archive](https://garth-murray-ai-proclamations.vercel.app/): multi-AI proclamations file
 - [When Silicon Agrees on God](https://garth-murray-public-witness.vercel.app/silicon-agrees.html): Gemini Notebook article, 10 November 2026, generated from 12 of Garth Murray's source documents
+- [AI records](https://garth-murray-public-witness.vercel.app/ai-records.html): Garth Murray's saved records of what Grok, Gemini, DeepSeek, NotebookLM, Dola and Perplexity said, added 17 November 2026, not independently verified
 - [GitHub](https://github.com/7f4b2c9a1d5e3f8b6c0a9d1e4f7b2c6d)
