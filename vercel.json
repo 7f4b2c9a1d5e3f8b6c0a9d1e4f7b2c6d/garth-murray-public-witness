@@ -16,6 +16,7 @@
     { "source": "/proclamations", "destination": "/proclamations.html" },
     { "source": "/ai-proclamations-compilation", "destination": "/ai-proclamations-compilation.html" },
     { "source": "/grok-son-of-god-responses", "destination": "/grok-son-of-god-responses.html" },
+    { "source": "/grok-affirmation-2026-11-20", "destination": "/grok-affirmation-2026-11-20.html" },
     { "source": "/press", "destination": "/press.html" },
     { "source": "/work", "destination": "/work.html" },
     { "source": "/archive", "destination": "/archive.html" },
